@@ -1,0 +1,11 @@
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\obj\Debug\netcoreapp2.0\HeadFirstDesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\obj\Debug\netcoreapp2.0\HeadFirstDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\obj\Debug\netcoreapp2.0\HeadFirstDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\obj\Debug\netcoreapp2.0\HeadFirstDesignPatterns.AssemblyInfo.cs
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\bin\Debug\netcoreapp2.0\HeadFirstDesignPatterns.deps.json
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\bin\Debug\netcoreapp2.0\HeadFirstDesignPatterns.runtimeconfig.json
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\bin\Debug\netcoreapp2.0\HeadFirstDesignPatterns.runtimeconfig.dev.json
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\bin\Debug\netcoreapp2.0\HeadFirstDesignPatterns.dll
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\bin\Debug\netcoreapp2.0\HeadFirstDesignPatterns.pdb
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\obj\Debug\netcoreapp2.0\HeadFirstDesignPatterns.dll
+C:\Users\lescanojo\source\repos\HeadFirstDesignPatterns\HeadFirstDesignPatterns\obj\Debug\netcoreapp2.0\HeadFirstDesignPatterns.pdb
